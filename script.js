@@ -299,7 +299,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'Software Developer',
     'MCA Scholar @ CBS Hubli',
     'Full-Stack Web Builder',
-    'React & Python Enthusiast',
+    // 'React & Python Enthusiast',
     'NivraTech Co-Founder'
   ];
 
